@@ -9,8 +9,6 @@ src="https://cardivo.vercel.app/api?name=Riy%20Coders&description=Hi,%20i%27m%20
 ## Helloo Guys <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 Hi, I'm Riy Coders, You Can call me as Riy.
 <br>
-<h1 align="center">リヤン 〜<br>Riy here!</h1>
-<img align="center" height="auto" src="https://avatars.githubusercontent.com/veanyxz"/>
 
 ### Spotify Playing 🎧
 
