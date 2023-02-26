@@ -25,7 +25,7 @@ Hi, I'm Riy Coders, You Can call me as Riy.
 
 ### About Me
 ```js
-const riyan = () => {
+const riy = () => {
   return {
     pronouns: "He" | "Him",
     country: "Indonesia",
